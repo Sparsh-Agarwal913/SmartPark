@@ -27,11 +27,12 @@ after the detection of license plate the character are extracted using easyocr o
 
 ## Demo
 
-![App Screenshot](./assests/Screenshot_61.png)
+![Screenshot_61](https://github.com/Sparsh-Agarwal913/SmartPark/assets/64848578/a63507c6-1af2-4253-a08d-c71ad3de3e98)
 
-![App Screenshot](./assests/Screenshot_60.png)
+![Screenshot_60](https://github.com/Sparsh-Agarwal913/SmartPark/assets/64848578/259f3aae-cd34-4c7e-ad10-6ef0ba566e56)
 
-![App Screenshot](./assests/Screenshot_62.png)
+![Screenshot_62](https://github.com/Sparsh-Agarwal913/SmartPark/assets/64848578/22c7c651-1979-494d-89b7-75eabe55b1a9)
+
 ## Step By Step Explanation
 The code uses computer vision techniques and a pre-trained deep learning model to detect license plates in a video stream and perform optical character recognition (OCR) to extract the license plate number.
 The code step by step:
